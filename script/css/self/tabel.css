@@ -1,0 +1,35 @@
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .merah{background-color:#cb0000;color:#ffffff;border-color:#000000;text-align:center;vertical-align:center}
+.tg .abuputih{background: #efefef; text-align: right;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:center}
+.tg .abu{background-color:#343434;color:#ffffff;border-color:#000000;text-align:center}
+.tg .rank{background-color:#f8ff00;color:#000000;border-color:#000000;text-align:center;vertical-align:center}
+.tg .kota{border-color:inherit;text-align:left}
+.tg .isi{border-color:inherit;text-align:right}
+.tg .isi2{border-color:inherit;text-align:center;}
+.tg .hitam{background-color:#000000;color:#ffffff;border-color:#000000;text-align:center}
+.tg .abuputih2{background: #efefef; text-align: center;}
+
+/*--------------*/
+
+.table-box{
+	width: 100%;
+	height: 700px;
+	overflow-y: scroll;
+}
+
+.tg2  {border-collapse:collapse;border-spacing:0;}
+.tg2 td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg2 th{position: sticky; top: 0; font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;word-break:normal;border-color:black;}
+.tg2 .merah{background-color:#cb0000;color:#ffffff;border-color:#000000;text-align:center;vertical-align:center}
+.tg2 .abuputih{background: #efefef; text-align: right;}
+.tg2 .tg-c3ow{border-color:inherit;text-align:center;vertical-align:center}
+.tg2 .abu{background-color:#343434;color:#ffffff;border-color:#000000;text-align:center}
+.tg2 .rank{background-color:#f8ff00;color:#000000;border-color:#000000;text-align:center;vertical-align:center}
+.tg2 .kota{border-color:inherit;text-align:left}
+.tg2 .isi{border-color:inherit;text-align:right}
+.tg2 .isi2{border-color:inherit;text-align:center;}
+.tg2 .hitam{background-color:#000000;color:#ffffff;border-color:#000000;text-align:center}
+.tg2 .abuputih2{background: #efefef; text-align: center;}
